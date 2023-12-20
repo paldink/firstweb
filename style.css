@@ -67,7 +67,7 @@ a:hover {
 
 .btn-cta {
     margin-right: 10px;
-    border-style: none;
+    border: none;
     font-size: 20px;
     padding: 6px 12px;
     background-color: var(--bg-primary);
@@ -105,7 +105,7 @@ a:hover {
     width: 100%;
     max-width: 500px;
     height: auto;
-    padding: 10pxx;
+    padding: 10px;
 }
 
 .parallax {
@@ -208,6 +208,7 @@ footer {
     }
 
     footer {
+        margin-top: 70px;
         margin-bottom: 70px;
     }
 }
